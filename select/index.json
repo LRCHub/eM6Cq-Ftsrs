@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "Go With The Flow",
+  "base_artist": "MC TYSON",
+  "createdAt": "2026-03-23T20:00:15.931796Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go With The Flow",
+      "artist": "IC3PEAK",
+      "has_synced": true,
+      "path": "select/01_Go_With_The_Flow_IC3PEAK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Go With the Flow",
+      "artist": "Saga",
+      "has_synced": true,
+      "path": "select/02_Go_With_the_Flow_Saga.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Go with the Flow",
+      "artist": "Savlonic",
+      "has_synced": true,
+      "path": "select/03_Go_with_the_Flow_Savlonic.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Go With The Flow",
+      "artist": "PAIN",
+      "has_synced": true,
+      "path": "select/04_Go_With_The_Flow_PAIN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Go With the Flow",
+      "artist": "Pitty",
+      "has_synced": true,
+      "path": "select/05_Go_With_the_Flow_Pitty.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Go With The Flow\u001fGo With The Flow",
+      "artist": "Queens Of The Stone Age",
+      "has_synced": true,
+      "path": "select/06_Go_With_The_Flow_Go_With_The_Flow_Queens_Of_The_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Go with the flow",
+      "artist": "Royksopp",
+      "has_synced": true,
+      "path": "select/07_Go_with_the_flow_Royksopp.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Go With The Flow",
+      "artist": "PAIN",
+      "has_synced": true,
+      "path": "select/08_Go_With_The_Flow_PAIN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Go with the Flow",
+      "artist": "Northern Lite",
+      "has_synced": true,
+      "path": "select/09_Go_with_the_Flow_Northern_Lite.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Go With the Flow",
+      "artist": "MF DOOM",
+      "has_synced": true,
+      "path": "select/10_Go_With_the_Flow_MF_DOOM.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Go with the Flow",
+      "artist": "Northern Lite",
+      "has_synced": false,
+      "path": "select/11_Go_with_the_Flow_Northern_Lite.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Go With The Flow",
+      "artist": "Daily J",
+      "has_synced": false,
+      "path": "select/12_Go_With_The_Flow_Daily_J.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Go With The Flow",
+      "artist": "MF DOOM",
+      "has_synced": true,
+      "path": "select/13_Go_With_The_Flow_MF_DOOM.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Go With The Flow",
+      "artist": "UnoTheActivist",
+      "has_synced": true,
+      "path": "select/14_Go_With_The_Flow_UnoTheActivist.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Go With the Flow",
+      "artist": "Kognitif",
+      "has_synced": true,
+      "path": "select/15_Go_With_the_Flow_Kognitif.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Go With the Flow",
+      "artist": "Teenage Bottlerocket",
+      "has_synced": true,
+      "path": "select/16_Go_With_the_Flow_Teenage_Bottlerocket.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Go With the Flow",
+      "artist": "Röyksopp",
+      "has_synced": true,
+      "path": "select/17_Go_With_the_Flow_Röyksopp.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Go With The Flow",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/18_Go_With_The_Flow_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Let Go With the Flow",
+      "artist": "The Beautiful South",
+      "has_synced": false,
+      "path": "select/19_Let_Go_With_the_Flow_The_Beautiful_South.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Go With  The  Flow",
+      "artist": "Queens Of The Stone Age",
+      "has_synced": true,
+      "path": "select/20_Go_With_The_Flow_Queens_Of_The_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Go With the Flow",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/21_Go_With_the_Flow_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Where Did Our Love Go (With The Supremes)",
+      "artist": "Diana Ross",
+      "has_synced": true,
+      "path": "select/22_Where_Did_Our_Love_Go_(With_The_Supremes)_Diana_Ross.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Go With The Flow",
+      "artist": "Queens of the Stone Age",
+      "has_synced": true,
+      "path": "select/23_Go_With_The_Flow_Queens_of_the_Stone_Age.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Go With the Flow - Raw Rhymes",
+      "artist": "MF DOOM",
+      "has_synced": false,
+      "path": "select/24_Go_With_the_Flow_-_Raw_Rhymes_MF_DOOM.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Go With the Flow (Raw Rhymes)",
+      "artist": "MF DOOM",
+      "has_synced": false,
+      "path": "select/25_Go_With_the_Flow_(Raw_Rhymes)_MF_DOOM.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Go With the Flow (Original 12\" Version)",
+      "artist": "MF DOOM feat. Sci.Fly",
+      "has_synced": false,
+      "path": "select/26_Go_With_the_Flow_(Original_12__Version)_MF_DOOM_feat._Sci.Fly.txt"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Go With the Flow (original 12˝ version)",
+      "artist": "MF DOOM feat. Sci.Fly",
+      "has_synced": false,
+      "path": "select/27_Go_With_the_Flow_(original_12_̋_version)_MF_DOOM_feat._Sci.Fly.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Go With the Flow",
+      "artist": "Your Favorite Franchise",
+      "has_synced": true,
+      "path": "select/28_Go_With_the_Flow_Your_Favorite_Franchise.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Go With The Flow (feat. Kohjiya)",
+      "artist": "MC TYSON",
+      "has_synced": false,
+      "path": "select/pl_01_Go_With_The_Flow_(feat._Kohjiya)_MC_TYSON.txt"
+    }
+  ]
+}
